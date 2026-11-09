@@ -16,3 +16,9 @@ et des rendez-vous médicaux.
 - CSS
 - JavaScript
 - Git et GitHub
+
+## Installation
+```bash
+git clone https://github.com/ChaiXwX/Medconnect.git
+```
+Ouvrir `index.html` dans un navigateur.
